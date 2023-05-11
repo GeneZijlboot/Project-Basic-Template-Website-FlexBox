@@ -171,3 +171,11 @@ a {
     color: #E5E7EB;
     padding: 35px;
 }
+
+#MadeBy, a{
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
