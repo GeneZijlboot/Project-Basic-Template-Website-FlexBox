@@ -1,3 +1,3 @@
-# final-project-html-css-flex
+# Project-Basic-Template-Website
 
-https://genezijlboot.github.io/final-project-html-css-flex/
+https://genezijlboot.github.io/Project-Basic-Template-Website
